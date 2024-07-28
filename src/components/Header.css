@@ -1,0 +1,13 @@
+/* Header.css */
+header {
+    background: #61dafb;
+    color: #fff;
+    padding: 20px;
+    border-bottom: 2px solid #21a1f1;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
